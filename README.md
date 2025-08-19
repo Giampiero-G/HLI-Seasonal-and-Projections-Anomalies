@@ -25,7 +25,6 @@ Run Projections_HLI_Seasonal_MME_Public.py for each scenario and time window.
 
 Run HLI_Anomalies_Panel_Public.py to generate seasonal anomaly maps across scenarios.
 
-Inputs and directory paths are configurable through command-line arguments or script variables.
 The scripts assume CMIP6 NetCDF input files structured by model, scenario, and time period.
 
 Requirements
