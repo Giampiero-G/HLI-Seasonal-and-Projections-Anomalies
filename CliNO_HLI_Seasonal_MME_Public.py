@@ -50,7 +50,7 @@ def build_parser():
     )
     p.add_argument(
         "--outdir",
-        default="./outputs",
+        default="your path",
         help="Output directory for NetCDF and PNG (default: ./outputs)"
     )
     p.add_argument(
@@ -435,5 +435,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
